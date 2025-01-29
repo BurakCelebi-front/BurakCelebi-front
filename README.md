@@ -9,7 +9,7 @@
 
 
 <h3>Tech Stack & Skills</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=radical) <br><br>
+https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=radical <br><br>
 
 
 📫 <strong>Get in Touch </strong> <br>

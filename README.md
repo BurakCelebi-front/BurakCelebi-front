@@ -1,5 +1,5 @@
 👋 Hi there, I'm Burak Celebi!<br>
-🚀 Passionate <p font-family="Lucida Console" font-weight="bold">Frontend Developer</p> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
+🚀 Passionate <p style="font-family:'Lucida Console'; font-weight:bold;">Frontend Developer</p> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
 
 About Me<br>
 👀 Exploring IT and shaping my career in a professional direction.<br>

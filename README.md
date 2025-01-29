@@ -19,19 +19,10 @@
 
 💻 <strong>Frontend Development:</strong> React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap <br>
 🎨 <strong>UI/UX & Styling:</strong> Sass/SCSS, Styled Components, Material UI <br>
-🔧 <strong>Tools & Platforms:</strong> GitHub, MongoDB, Figma <br>
+🔧 <strong>Tools & Platforms:</strong> GitHub, MongoDB, Figma, Vite <br>
 🚀 <strong>Currently Learning:</strong>  Node.js, Typescript, Express.js, Postman, GitHub, MySQL <br>
+📡 <strong>APIs & Backend Integration:</strong> REST APIs, Axios, Express.js<br><br>
 
-
-
-
-🔧 Tools & Platforms:
-    🛠 GitHub, Postman, MongoDB, Homebrew, Node.js, Vite, Webpack, ESLint, Prettier
-📡 APIs & Backend Integration:
-    🔌 REST APIs, GraphQL, Firebase, Axios, Express.js
-
-
-<br><br>
 
 📫 <strong>Get in Touch </strong> <br>
 📩 <strong>Email:</strong> burakcelebi.front@gmail.com <br>

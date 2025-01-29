@@ -14,9 +14,9 @@
 🚀 <strong>Currently Still Learning:</strong> Node.js, Express.js, GitHub, Typescript <br>
 
 
-📫 <stong>Get in Touch</strong><br>
-📩 <stong>Email:</strong> burakcelebi.front@gmail.com<br>
-💬 <stong>Telegram:</strong> @B_Chelebi<br>
+📫 <strong>Get in Touch </strong> <br>
+📩 <strong>Email:</strong> burakcelebi.front@gmail.com <br>
+💬 <strong>Telegram:</strong> @B_Chelebi<br>
 
 
 📌 <strong>Fun Fact</strong><br>

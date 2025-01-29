@@ -8,23 +8,21 @@
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br>
 
 
-🔧 <h3>Tech Stack & Skills</h3>
-💻 <span>Frontend Development:</span> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS<br>
-🔧 Tools & Platforms: GitHub, Postman, MongoDB, Homebrew, Node.js<br>
-🚀 Currently Learning: Python, Golang, AI Development<br>
+<h3>Tech Stack & Skills</h3>
+💻 <strong>Frontend Development:</strong> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind.css, Typescript<br>
+🔧 <strong>Tools & Platforms:</strong> GitHub, Postman, MongoDB, MySQL<br>
+🚀 <strong>Currently Still Learning:</strong> Node.js, Express.js, GitHub, Typescript <br>
 
 
+📫 <stong>Get in Touch</strong><br>
+📩 <stong>Email:</strong> burakcelebi.front@gmail.com<br>
+💬 <stong>Telegram:</strong> @B_Chelebi<br>
 
 
-- 👀 I’m interested in IT and trying make my career path is professional.
-- 🌱 I’m currently Frontend Developer. Also learning still and upgrading myself.
--  I’m looking to collaborate on  Websites and looking for new challenge for my career. 
-- 📫 How to reach me  Telegram : @B_Chelebi ,  E-mail : burakcelebi.front@gmail.com  Site : burakcelebi.site
-- ⚡ Fun fact: Any Sports, console games, camping etc.
-- 🌱 I created this profile new. I hope who ever comes can enjoy my profile.
-- Thanks for reading... :)
+📌 <strong>Fun Fact</strong><br>
+💡 Every project I build is a step toward mastery and innovation.<br>
+🔥 I believe in continuous learning and pushing the boundaries of web development.<br>
 
-<!---
-BurakCelebi-front/BurakCelebi-front is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+✨ <strong>Thanks for stopping by! Let's create something awesome together. </strong> 🚀
+

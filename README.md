@@ -1,5 +1,5 @@
 👋 Hi there, I'm Burak Celebi!<br>
-🚀 Passionate <h6>Frontend Developer</h6> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
+🚀 Passionate <strong>Frontend Developer</strong> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
 
 About Me<br>
 👀 Exploring IT and shaping my career in a professional direction.<br>

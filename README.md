@@ -9,10 +9,7 @@
 
 
 <h3>Tech Stack & Skills</h3>
-💻 <strong>Frontend Development:</strong> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind.css, Typescript<br>
-🔧 <strong>Tools & Platforms:</strong> GitHub, Postman, MongoDB, MySQL<br>
-🚀 <strong>Currently Still Learning:</strong> Node.js, Express.js, GitHub, Typescript <br><br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakCelebi-front)](https://github.com/BurakCelebi-front/github-readme-stats)
 
 📫 <strong>Get in Touch </strong> <br>
 📩 <strong>Email:</strong> burakcelebi.front@gmail.com <br>

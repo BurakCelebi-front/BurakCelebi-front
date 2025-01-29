@@ -9,7 +9,9 @@
 
 
 <h3>Tech Stack & Skills</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakCelebi-front)](https://github.com/BurakCelebi-front/github-readme-stats) <br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=radical) <br><br>
+
+
 📫 <strong>Get in Touch </strong> <br>
 📩 <strong>Email:</strong> burakcelebi.front@gmail.com <br>
 💬 <strong>Telegram:</strong> @B_Chelebi<br><br>

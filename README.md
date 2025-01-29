@@ -1,11 +1,11 @@
-👋 Hi there, I'm Burak Celebi!
-🚀 Passionate Frontend Developer | 🌱 Constant Learner | 🎯 Seeking New Challenges
+👋 Hi there, I'm Burak Celebi!<br>
+🚀 Passionate Frontend Developer | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
 
-About Me
-👀 Exploring IT and shaping my career in a professional direction.
-🌱 Currently working as a Frontend Developer, continuously improving my skills.
-💡 Looking to collaborate on web projects and take on new challenges.
-🎮 Outside of coding, I enjoy sports, console gaming, and camping.
+About Me<br>
+👀 Exploring IT and shaping my career in a professional direction.<br>
+🌱 Currently working as a Frontend Developer, continuously improving my skills.<br>
+💡 Looking to collaborate on web projects and take on new challenges.<br>
+🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br>
 
 
 🔧 <span style="font-family: 'Lucida Console';">Tech Stack & Skills</span>

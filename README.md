@@ -1,9 +1,9 @@
 👋 Hi there, I'm Burak Celebi!
 🚀 Passionate Frontend Developer | 🌱 Constant Learner | 🎯 Seeking New Challenges
 
-<span style="font-family: 'Lucida Console'; font-size: 25px;">About Me</span>
+About Me
 👀 Exploring IT and shaping my career in a professional direction.
-🌱 Currently working as a freelance Frontend Developer, continuously improving my skills.
+🌱 Currently working as a Frontend Developer, continuously improving my skills.
 💡 Looking to collaborate on web projects and take on new challenges.
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.
 

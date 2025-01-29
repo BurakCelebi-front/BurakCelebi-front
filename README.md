@@ -8,10 +8,10 @@
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br>
 
 
-🔧 <span style="font-family: 'Lucida Console';">Tech Stack & Skills</span>
-💻 <span>Frontend Development:</span> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-🔧 Tools & Platforms: GitHub, Postman, MongoDB, Homebrew, Node.js
-🚀 Currently Learning: Python, Golang, AI Development
+🔧 <h3>Tech Stack & Skills</h3>
+💻 <span>Frontend Development:</span> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS<br>
+🔧 Tools & Platforms: GitHub, Postman, MongoDB, Homebrew, Node.js<br>
+🚀 Currently Learning: Python, Golang, AI Development<br>
 
 
 

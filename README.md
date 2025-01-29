@@ -1,8 +1,7 @@
 👋 Hi there, I'm Burak Celebi!
 🚀 Passionate Frontend Developer | 🌱 Constant Learner | 🎯 Seeking New Challenges
 
-<!---<h3 style="font-family: 'Lucida Console';">About Me</h3> --->
-About Me
+<h3 style="font-family: 'Lucida Console';">About Me</h3>
 👀 Exploring IT and shaping my career in a professional direction.
 🌱 Currently working as a freelance Frontend Developer, continuously improving my skills.
 💡 Looking to collaborate on web projects and take on new challenges.
@@ -10,7 +9,7 @@ About Me
 
 
 🔧 <h3 style="font-family: 'Lucida Console';">Tech Stack & Skills</h3>
-💻 Frontend Development: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+💻 <h5>Frontend Development:</h5> React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 🔧 Tools & Platforms: GitHub, Postman, MongoDB, Homebrew, Node.js
 🚀 Currently Learning: Python, Golang, AI Development
 

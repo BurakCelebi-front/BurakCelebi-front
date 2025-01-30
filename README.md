@@ -1,19 +1,15 @@
-👋 Hi there, I'm Burak Celebi!<br>
-🚀 Passionate <strong>Frontend Developer</strong> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>
+# 👋 Hi there, I'm Burak Celebi!<br>
+**🚀 Passionate <strong>Frontend Developer</strong> | 🌱 Constant Learner | 🎯 Seeking New Challenges<br>**
 
 <h3>About Me</h3>
 👀 Exploring IT and shaping my career in a professional direction.<br>
 🌱 Currently working as a Frontend Developer, continuously improving my skills.<br>
 💡 Looking to collaborate on web projects and take on new challenges.<br>
-🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br><br><br>
+🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br><br>
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=tokyonight">
-
-<br>
-
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&layout=compact&langs_count=8">
-
-<br><br><br>
+<img alt="my stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=tokyonight">
+<img alt="top languages"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&langs_count=8&layout=compact">
+<br><br>
 
 <h3>Tech Stack & Skills</h3>
 

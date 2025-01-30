@@ -11,7 +11,7 @@
 
 <br>
 
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&layout=compact">
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&layout=compact&langs_count=8">
 
 <br><br><br>
 

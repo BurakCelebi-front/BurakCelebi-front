@@ -8,7 +8,7 @@
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br><br>
 
 <img alt="my stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=tokyonight">
-<img alt="top languages"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&langs_count=8&layout=compact">
+<img alt="top languages"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&layout=compact&langs_count=8">
 <br><br>
 
 # Tech Stack & Skills

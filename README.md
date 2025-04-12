@@ -7,9 +7,25 @@
 💡 Looking to collaborate on web projects and take on new challenges.<br>
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br><br>
 
-<img alt="my stats"  width="48%" src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=tokyonight">
-<img alt="top languages"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&layout=compact&langs_count=10">
-<br><br>
+### 📊 Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=gruvbox" height="205px"/>
+    </td>
+    <td rowspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&theme=gruvbox" height="400px"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=BurakCelebi-front&theme=gruvbox&border_radius=4.5" height="194px"/>
+    </td>
+  </tr>
+</table>
+
+#
 
 # Tech Stack & Skills
 
@@ -49,10 +65,6 @@
 📩 <strong>Email:</strong> burakcelebi.front@gmail.com <br>
 💬 <strong>Telegram:</strong> @B_Chelebi<br><br>
 
-
-📌 <strong>Fun Fact</strong><br>
-💡 Every project I build is a step toward mastery and innovation.<br>
-🔥 I believe in continuous learning and pushing the boundaries of web development.<br><br>
 
 
 ✨ <strong>Thanks for stopping by! Let's create something awesome together. </strong> 🚀

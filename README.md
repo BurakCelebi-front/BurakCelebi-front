@@ -18,11 +18,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&theme=gruvbox" height="400px"/>
     </td>
   </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=BurakCelebi-front&theme=gruvbox&border_radius=4.5" height="194px"/>
-    </td>
-  </tr>
 </table>
 
 #

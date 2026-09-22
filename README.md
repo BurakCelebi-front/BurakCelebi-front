@@ -7,9 +7,9 @@
 💡 Looking to collaborate on web projects and take on new challenges.<br>
 🎮 Outside of coding, I enjoy sports, console gaming, and camping.<br><br>
 
-### 📊 Stats
+<!--### 📊 Stats
 
-<table>
+ <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=BurakCelebi-front&show_icons=true&theme=gruvbox" height="205px"/>
@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurakCelebi-front&theme=gruvbox" height="295px"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 #
 

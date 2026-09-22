@@ -27,7 +27,7 @@
 <h3> 💻 Frontend Development:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,typescript,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,js,react,typescript,tailwind" />
   </a>
 </p>
 <h3> 🎨 UI/UX & Styling:
@@ -45,7 +45,7 @@
 <h3> 🚀 Currently Learning: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,postgre,sql" />
   </a>
 </p>
 <h3> 📡 APIs & Backend Integration: </h3>

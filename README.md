@@ -27,25 +27,25 @@
 <h3> 💻 Frontend Development:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css3,js,react,typescript,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html5,css3,js,react,typescript" />
   </a>
 </p>
 <h3> 🎨 UI/UX & Styling:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,bootstrap,styledcomponents,materialui" />
+    <img src="https://skillicons.dev/icons?i=sass,bootstrap,tailwind" />
   </a>
 </p>
 <h3> 🔧 Tools & Platforms: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,mongodb,figma,vite"
+    <img src="https://skillicons.dev/icons?i=git,mongodb,figma,claude,jira,slack"
   </a>
 </p>
 <h3> 🚀 Currently Learning: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,postgre,sql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,postgre,sql,java" />
   </a>
 </p>
 <h3> 📡 APIs & Backend Integration: </h3>

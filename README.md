@@ -45,7 +45,7 @@
 <h3> 🚀 Currently Learning: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,postgre,sql,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,postman,postgresql,java" />
   </a>
 </p>
 <h3> 📡 APIs & Backend Integration: </h3>
